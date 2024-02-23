@@ -1,0 +1,25 @@
+Proyecto: Sistema de Gestion de Tareas para el GAD de Sevilla Don Bosco.
+
+Modulos:
+Proyectos
+- Nuevos proyectos
+- Lista de proyectos 
+Tareas
+- Lista de tareas
+Usuarios
+- Nuevos Usuarios
+- Lista de usuarios 
+
+Niveles de acceso
+Aministrador
+Gerente
+Empleados
+
+Cargos por usuario:
+Aministrador: Gestion del sistema.
+Gerente: Enacargado del proyecto, crear proyectos y asignar tareas a los empleaos
+Empleados: Cumplir con las tareas.
+
+Credencial de acceso:
+Usuario: israelikiam91@gmail.com
+Contraseña: amdin123
